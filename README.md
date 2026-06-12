@@ -9,10 +9,5 @@ There is a pressing need to shift from traditional public funding models to more
 
 Health Equity Chain's partnerships with community based organizations ensure our solution remains grounded in real-world challenges, following an iterative, community-led development and deployment process. This collaborative strategy enables us to address complex healthcare issues holistically and sustainably.
 
-
-# Publications
-TBA
-
- ![Project Logo2](assets/image2.png) ![Project Logo3](assets/image3.jpg)  
 ```
 Scripts are included in the preprocessing folder that may be of use to analysts, that detail imputation and sample size calculation processes, from the initial PROFID study analysis.
