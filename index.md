@@ -4,7 +4,7 @@ permalink: /
 
 ![Project Logo](assets/hec-logo-v2.png)
 
-The ambition of HEC is to create a positive feedback loop where improved health outcomes lead to better quality of life and increased economic participation.
+The ambition of HEC is to create a positive feedback loop where improved health outcomes lead to better quality of life and increased economic participation in Sub Saharan Africa.
 
 Building on an existing network of 500 community-based organizations and reaching 10 million potential beneficiaries, we aim to address critical healthcare accessibility gaps in Kenya, Uganda, and Tanzania. Our solution combines a medical facilities map, secure health records and a medical savings product, in a comprehensive digital ecosystem.
 
