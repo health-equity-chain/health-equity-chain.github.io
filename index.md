@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-![Project Logo](assets/image1.jpg)
+![Project Logo](assets/hec-logo-v2.png)
 
 # HEALTH EQUITY CHAIN (HEC)
 
